@@ -1,0 +1,16 @@
+abc123 123a567890 2019/12/19 4 <good product>
+abc123 123a567890 2019/12/19 4 <good product>
+xyz456 987b654321 2020/02/14 5 <excellent product>
+def789 456c123456 2021/06/30 3 <average product>
+pqr321 789d098765 2022/09/05 2 <not satisfied>
+mno654 321e567890 2023/01/10 1 <worst product>
+abc456 789b123456 2020/03/25 5 
+xyz789 456c098765 2021/07/12 4 <good product, satisfied with the purchase>
+pqr234 321d567890  3 <average product, could be better>
+mno567 654e098765 2023/04/15 2 <not impressed, wouldn't buy again>
+lmn890 987f123456 2024/08/08  <fantastic product, worth every penny>
+ijk123 567g098765 2025/12/01 4 <great product, exceeded expectations>
+efg456 234h567890  3 <decent product, but had some issues>
+hij789 890i123456 2027/05/05 2 <disappointed, not what I expected>
+rst234 567j098765 2028/02/18 1 <terrible product, waste of money>
+uvw567  2029/10/10 5 <amazing product, couldn't be happier>

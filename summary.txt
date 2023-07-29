@@ -1,0 +1,7 @@
+Total reviews processed: 26
+Total invalid reviews count: 9
+Total valid reviews count: 17
+Top 3 products:
+Product ID: 987b654321, Average Rating: 5.0
+Product ID: 456b098765, Average Rating: 5.0
+Product ID: 567f567890, Average Rating: 5.0

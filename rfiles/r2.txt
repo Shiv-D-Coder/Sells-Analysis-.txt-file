@@ -1,0 +1,10 @@
+abc789 789a123456 2030/06/28 4 <great quality product, worth the price>
+xyz234 456b098765 2031/03/09 5 <excellent service and fast delivery>
+pqr567 2032/07/22 3 <decent product, but packaging could be better>
+mno890 654d098765 2033/11/12  <not happy with the purchase, expected more>
+lmn123 987e123456 2034/09/02 1 <worst customer experience, avoid at all costs>
+ijk456 567f567890 2035/05/17 5 <outstanding product, exceeded my expectations>
+efg789 234g098765  4 <good value for money, would recommend>
+hij234 890h567890 2037/08/30 3 <average product, nothing exceptional>
+rst567 567i098765 2038/04/07 2 <disappointed with the quality, returning it>
+uvw890 123j123456 2039/02/14 1
